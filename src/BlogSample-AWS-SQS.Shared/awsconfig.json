@@ -1,0 +1,5 @@
+﻿{
+    "AccessKeyId": "YOUR_KEY",
+    "SecretKey": "YOUR_SECRET",
+    "QueueUrl": "YOUR_QUEUE_URL"
+}
